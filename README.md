@@ -18,13 +18,13 @@ I enjoy building custom plugins, developing complex WooCommerce functionality, s
 ### 🛠️ Languages & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,html,css,mysql" alt="Technical skills" />
 </p>
 
 ### ⚙️ Platforms & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,git,github,githubactions,vscode,postman,composer" />
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,githubactions,vscode,postman,composer" alt="Platforms and tools" />
 </p>
 
 **Areas of expertise:**
@@ -90,9 +90,6 @@ A React learning project exploring reusable components and configurable product 
 I'm interested in collaborating on WordPress, WooCommerce, PHP, and full-stack development projects.
 
 <p>
-  <a href="https://www.linkedin.com/in/vivek-e/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://vivekcena.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
