@@ -68,10 +68,7 @@ A React learning project exploring reusable components and configurable product 
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VivekcEna&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekcEna&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+![GitHub Statistics](images/userstats.svg)
 
 ### 🔥 Contribution Streak
 
