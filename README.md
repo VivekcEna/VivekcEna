@@ -66,10 +66,6 @@ A React learning project exploring reusable components and configurable product 
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Statistics](images/userstats.svg)
-
 ### 🔥 Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=VivekcEna&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
