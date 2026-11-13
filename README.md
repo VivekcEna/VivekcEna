@@ -9,7 +9,6 @@ I'm a software developer with **5+ years of industry experience**, including **4
 I enjoy building custom plugins, developing complex WooCommerce functionality, solving integration challenges, and creating maintainable web applications.
 
 🌐 **Portfolio:** [vivekcena.com](https://vivekcena.com/)  
-💼 **LinkedIn:** [linkedin.com/in/vivek-e](https://www.linkedin.com/in/vivek-e/)  
 📍 **Location:** Kerala, India
 
 ---
@@ -19,13 +18,13 @@ I enjoy building custom plugins, developing complex WooCommerce functionality, s
 ### 🛠️ Languages & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,html,css,mysql" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,html,css,mysql" />
 </p>
 
 ### ⚙️ Platforms & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress,git,github,githubactions,composer,vscode,postman" alt="Platforms and tools" />
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,githubactions,vscode,postman,composer" />
 </p>
 
 **Areas of expertise:**
