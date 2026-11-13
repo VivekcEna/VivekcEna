@@ -1,0 +1,28 @@
+
+name: Update GitHub Statistics
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          custom-title: GitHub Statistics
+          animated-language-chart: true
+          max-languages: 10
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
